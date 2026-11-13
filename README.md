@@ -16,7 +16,7 @@ AI proposes an action. You review it. Your wallet approves it.
 |---|---|
 | [duskmoth-sdk](https://github.com/duskmoth-dev/duskmoth-sdk) | Dependency-free HTTP API client; does not sign or move funds |
 | [duskmoth-docs](https://github.com/duskmoth-dev/duskmoth-docs) | Setup, private-transaction usage, API, and safety guides |
-| duskmoth | Application source candidate; publication is gated by dependency security review |
+| [duskmoth](https://github.com/duskmoth-dev/duskmoth) | Application source: wallet-approved private-transfer flows, Moth Pass, AI Pack and Private Payroll |
 | [duskmoth-dev](https://github.com/duskmoth-dev/duskmoth-dev) | Profile, contribution, and community policies |
 
 ## Contribute
